@@ -1,0 +1,1999 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+ <wpProQuiz>
+  <header version="0.37" exportVersion="1" /> 
+ <data>
+ <quiz>
+ <title titleHidden="false">
+ <![CDATA[ Nabard Grade A & B 2017 Exam Mcq On Paper 2 Agriculture
+  ]]> 
+  </title>
+ <text>
+ <![CDATA[ 
+Nabard Grade A & B 2017 Exam Mcq On Paper 2 Agriculture
+Total question: 20
+Time:10mins
+  ]]> 
+  </text>
+  <category>General knowledge 2017 directory</category> 
+ <resultText gradeEnabled="false">
+ <![CDATA[ 
+Thanks for giving the test.
+good luck :)
+
+  ]]> 
+  </resultText>
+  <btnRestartQuizHidden>false</btnRestartQuizHidden> 
+  <btnViewQuestionHidden>false</btnViewQuestionHidden> 
+  <questionRandom>true</questionRandom> 
+  <answerRandom>true</answerRandom> 
+  <timeLimit>600</timeLimit> 
+  <showPoints>false</showPoints> 
+  <statistic activated="false" ipLock="1440" /> 
+  <quizRunOnce type="1" cookie="false" time="0">false</quizRunOnce> 
+  <numberedAnswer>false</numberedAnswer> 
+  <hideAnswerMessageBox>false</hideAnswerMessageBox> 
+  <disabledAnswerMark>false</disabledAnswerMark> 
+  <showMaxQuestion showMaxQuestionValue="20" showMaxQuestionPercent="false">true</showMaxQuestion> 
+ <toplist activated="true">
+  <toplistDataAddPermissions>1</toplistDataAddPermissions> 
+  <toplistDataSort>1</toplistDataSort> 
+  <toplistDataAddMultiple>true</toplistDataAddMultiple> 
+  <toplistDataAddBlock>20</toplistDataAddBlock> 
+  <toplistDataShowLimit>1</toplistDataShowLimit> 
+  <toplistDataShowIn>1</toplistDataShowIn> 
+  <toplistDataCaptcha>false</toplistDataCaptcha> 
+  <toplistDataAddAutomatic>false</toplistDataAddAutomatic> 
+  </toplist>
+  <showAverageResult>true</showAverageResult> 
+  <prerequisite>false</prerequisite> 
+  <showReviewQuestion>true</showReviewQuestion> 
+  <quizSummaryHide>false</quizSummaryHide> 
+  <skipQuestionDisabled>false</skipQuestionDisabled> 
+  <emailNotification>0</emailNotification> 
+  <userEmailNotification>false</userEmailNotification> 
+  <showCategoryScore>false</showCategoryScore> 
+  <hideResultCorrectQuestion>false</hideResultCorrectQuestion> 
+  <hideResultQuizTime>false</hideResultQuizTime> 
+  <hideResultPoints>false</hideResultPoints> 
+  <autostart>false</autostart> 
+  <forcingQuestionSolve>false</forcingQuestionSolve> 
+  <hideQuestionPositionOverview>false</hideQuestionPositionOverview> 
+  <hideQuestionNumbering>false</hideQuestionNumbering> 
+  <sortCategories>false</sortCategories> 
+  <showCategory>false</showCategory> 
+  <quizModus questionsPerPage="0">1</quizModus> 
+  <startOnlyRegisteredUser>false</startOnlyRegisteredUser> 
+ <adminEmail>
+  <to /> 
+  <form /> 
+  <subject>Wp-Pro-Quiz: One user completed a quiz</subject> 
+  <html>false</html> 
+ <message>
+ <![CDATA[ 
+Wp-Pro-Quiz
+
+The user "$username" has completed "$quizname" the quiz.
+
+Points: $points
+Result: $result
+
+
+
+  ]]> 
+  </message>
+  </adminEmail>
+ <userEmail>
+  <to>-1</to> 
+  <toUser>false</toUser> 
+  <toForm>false</toForm> 
+  <form /> 
+  <subject>Wp-Pro-Quiz: One user completed a quiz</subject> 
+  <html>false</html> 
+ <message>
+ <![CDATA[ 
+Wp-Pro-Quiz
+
+You have completed the quiz "$quizname".
+
+Points: $points
+Result: $result
+
+
+
+  ]]> 
+  </message>
+  </userEmail>
+  <forms activated="false" position="0" /> 
+ <questions>
+
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 1]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ The technique first described to determine the incipient spoilage in meat was
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ ﻿homogenate extract volume (HEV)]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ agar Plate Count (AP]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ extract Release Volume (ERV)]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ none of the above]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 2]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Which of the following is responsible for a musty or earthy flavor?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Flavobacterium]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ both (a) and (b)]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ Actinomycetes]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Pseudomonas syncyanea]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 3]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Molds causing spoilage of eggs include species of
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Cladosporium]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Mucor]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ all of these]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Thamnidium]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 4]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Vacuum packaged meats are spoiled by
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ thermosphacta]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Lactobacilli]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ Both (a) and (b)]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ none of these]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 5]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ More spoilage of eggs is caused by
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ molds than bacteria]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ synergistically]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ bacteria than molds]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ none of these]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 6]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ The growth of Streptomyces on straw or elsewhere near the egg may produce
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ hay odour]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ fishy flavor]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ musty or earthy flavors]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ cabbage-water flavor]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 7]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Unopened, sliced bacon, packaged in material somewhat highly resistant to oxygen permeability, is spoiled mostly by
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Micrococci]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ fecal Streptococci]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ Lactobacilli]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ molds]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 8]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Pink rots in eggs is caused by the strains of
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Pseudomonas fluorescens]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ species of Micrococcus or Bacillus]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ Pseudomonas]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ none of the above]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 9]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Beef hams are made spongy by species of
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Rhodotorula]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Pseudomonas]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ Bacillus]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ red Bacillus]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 10]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ The red color of meat, called its bloom, may be changed to shades of green, brown or grey as a result of production of oxidizing compounds by bacteria . Which of the following species are reported to cause the greening of sausage?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Lactobacillus]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Leuconostoc]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ Both (a) and (b)]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Pseudomonas]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 11]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Yellow discolorations in meat are caused by bacteria with yellow pigments, usually species of
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Micrococcus]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Flavobacterium]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ both (a) and (b)]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Pseudomonas syncyanea]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 12]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Which of the following (s) is/are responsible for the green patches on the surface of meats under aerobic conditions?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ P. expansum]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ P. asperulum]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ All of these]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ P. oxalicum]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 13]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Which of the following microorganisms grow in beef at a temperature of 15°C and above?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Micrococci]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Pseudomonas]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ Both (a) and (b)]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Lactobacillus]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 14]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Green rots in eggs is chiefly caused by
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Micrococcus or Bacillus species]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ Molds or yeasts]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ Pseudomonas fluorescens]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ all of the above]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 15]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Black rots in eggs is most commonly caused by
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ species of Micrococcus or Bacillus]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ molds or yeasts]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[ species of Proteus]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[ all of these]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 16]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Jute cultivation in India is concentrated in the delta area of which of the following rivers?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Mahanadi]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Brahamputra]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Ganga]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Godavari]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 17]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Which of the following is the largest irrigation canal in India?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Buckingham Canal]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Sirhind Canal]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Indira Gandhi Canal]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Sutlej Yamuna Link Canal]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 18]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Which one of the following is the correct sequence in the decreasing order of production (in million tonnes) of the given foodgrains in India?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Wheat - Rice - Pulses - Coarse cereals]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Rice - Wheat - Pulses - Coarse cereals]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Rice - Wheat - Coarse cereals - Pulses]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Wheat - Rice - Coarse cereals - Pulses]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 19]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ The eyes of potato are useful for
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Nutrition]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Respiration]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Vegetative Propagation]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Protection from predators]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 20]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ What is Slash and Burn Agriculture?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  method of sugarcane cultivation]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  process of deforestation]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  jhum cultivation]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  agriculture without irrigation]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 21]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Rotation of crops means
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  shifting of area of same crops.]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  growing two or more crops simultaneously to increase productivity.]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  growing of different crops in the same area in sequential seasons.]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  alternating crops with fruits over a period of years.]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 22]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ The nitrogen present in the atmosphere is
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  of no use to plants]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  injurious to plants]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  utilized through micro-organisms]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  directly utilized by plants]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 23]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Which is the largest cotton growing State in India?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Maharashtra]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Madhya Pradesh]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Gujarat]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Andhra Pradesh]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 24]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ The variety of coffee largely grown in India is -
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Old Chicks]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Coorgs]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Arabica]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Kents]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 25]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Under which plan did the Government introduce an agricultural strategy which gave rise to Green Revolution?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Third Five-Year Plan (FYP)]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Fifth FYP]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Fourth FYP]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Second FYP]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 26]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Laterite soil develops as a result of-
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Deposits of alluvial]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Deposition of loess]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Leaching of sedimentary rocks]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Wind-blown dust]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 27]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ What kind of soil is treated with gypsum to make it suitable for cropping?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Aluvial]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Acidic]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Soil with excessive clay content]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Water-logged]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 28]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ The United Nations General Assembly has declared 2013 as the International Year of ____
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Buckwheat]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Rice]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Quinoa]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Jatropha]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 29]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Which one of the following is known as a pseudocereal?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Wheat]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Horse gram]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Quinoa]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Barley]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 30]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Besides Rabi and Kharif, which is the third crop season in India?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Barsati]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Sharad]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Zaid]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Jhum]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 31]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Kharif crops are harvested in -
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  June - July]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  May - June]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  October - November]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  March - April]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>
+  <question answerType="single">
+  <title>
+   <![CDATA[ Question: 32]]> 
+  </title>
+  <points>1</points> 
+  <questionText>
+   <![CDATA[ Coating urea with which of the following has been found to increase the yield of crops?
+]]> 
+  </questionText>
+ <correctMsg>
+ <![CDATA[ ]]> 
+  </correctMsg>
+ <incorrectMsg>
+ <![CDATA[ ]]> 
+  </incorrectMsg>
+ <tipMsg enabled="false">
+ <![CDATA[ ]]> 
+  </tipMsg>
+  <category>General knowledge</category> 
+  <correctSameText>false</correctSameText> 
+  <showPointsInBox>false</showPointsInBox> 
+  <answerPointsActivated>false</answerPointsActivated> 
+  <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated> 
+  <disableCorrect>false</disableCorrect> 
+ <answers>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Lime]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Ash]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="true">
+ <answerText html="false">
+ <![CDATA[  Neem oil]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+ <answer points="1" correct="false">
+ <answerText html="false">
+ <![CDATA[  Eucalyptus oil]]> 
+  </answerText>
+ <stortText html="false">
+ <![CDATA[ ]]> 
+  </stortText>
+  </answer>
+  </answers>
+  </question>  </questions>
+  </quiz>
+  </data>
+  </wpProQuiz>
